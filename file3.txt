@@ -1,1 +1,2 @@
 This is third file
+Second line added to file2.txt
